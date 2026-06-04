@@ -43,22 +43,6 @@ O OrbitAgro atua como uma **camada de interpretação** entre os dados espaciais
 
 ---
 
-## ⚙️ Funcionalidades
-
-- **RF01** — Página inicial explicando propósito, problema e conexão com Space Connect.
-- **RF02** — Mapa interativo (Leaflet + OpenStreetMap) com talhões reais georreferenciados.
-- **RF03** — Seleção de área de interesse por talhões predefinidos **ou desenho de área personalizada no mapa**.
-- **RF03.1** — Delimitação por **retângulo rápido (2 cliques)** ou **polígono livre** para áreas irregulares.
-- **RF04** — Botão **"Analisar área"** com processamento simulado.
-- **RF05** — Indicadores: NDVI, temperatura, risco de seca, área sob estresse, anomalia e score.
-- **RF06** — Diagnóstico interpretativo em linguagem natural, diferente por cenário.
-- **RF07** — Recomendações práticas dinâmicas conforme os indicadores.
-- **RF08** — Alerta visual por nível: 🟢 saudável · 🟡 atenção · 🔴 risco.
-- **RF09** — Gráfico de evolução do NDVI (últimos 6 meses) + composição do score.
-- **RF10** — Aviso explícito de que é ferramenta de apoio à decisão.
-
----
-
 ## 🧰 Tecnologias utilizadas
 
 | Camada | Tecnologia |
@@ -180,26 +164,3 @@ orbitagro/
 ├── package.json
 └── README.md
 ```
-
----
-
-## 👥 Integrantes do grupo
-
-| Nome | RM | Função |
-|---|---|---|
-| _preencher_ | _RM_ | _ex.: dev / pitch_ |
-| _preencher_ | _RM_ | |
-| _preencher_ | _RM_ | |
-
----
-
-## 🎬 Vídeos da entrega
-
-- **Vídeo-pitch (até 3 min):** _inserir link após gravação_
-- **Vídeo técnico (até 4 min):** _inserir link após gravação_
-
-> Os roteiros de apoio estão em [`docs/`](./docs).
-
----
-
-*OrbitAgro · MVP acadêmico · Global Solution FIAP — Space Connect. Dados simulados.*
